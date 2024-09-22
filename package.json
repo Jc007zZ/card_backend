@@ -1,7 +1,6 @@
 {
   "scripts": {
-    "start": "node ./src/utils/server.ts",
-    "dev": "nodemon ./src/utils/server.ts"
+    "start": "node ./src/server.js"
   },
   "type": "commonjs",
   "engines": {
